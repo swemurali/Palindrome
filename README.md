@@ -24,8 +24,8 @@ Save the program and run the program in visual studio 2022.
 
 ## Program:
 ```
-Developed by: PAARKAVY B 
-Register Number: 212221230072 
+Developed by: SUWETHA.M
+Register Number: 212221230112
 ```
 ```
 using System;
